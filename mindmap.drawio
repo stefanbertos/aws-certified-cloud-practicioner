@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:20:09.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pl8YCCAjRR71SZCmF2VQ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:24:17.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bFERcvQIsCp369hrFF7q" version="17.4.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -217,7 +217,7 @@
             <mxPoint x="131" y="106.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1427" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" edge="1">
+        <mxCell id="1427" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1352" edge="1" target="P4CbewZ5qaZaSDbY6l-O-1592">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
             <mxPoint x="31" y="206.5" as="sourcePoint" />
             <mxPoint x="1699" y="261.5" as="targetPoint" />
@@ -636,6 +636,18 @@
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1589" value="Centrally manage and govern your environment as you scale your AWS resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1587">
           <mxGeometry y="46.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1594" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1600" y="60" width="189.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1591" value="" style="group" vertex="1" connectable="0" parent="P4CbewZ5qaZaSDbY6l-O-1594">
+          <mxGeometry x="9.5" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1592" value="AWS Batch" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1591">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1593" value="AWS Batch enables you to run batch computing workloads on the AWS Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1594">
+          <mxGeometry y="60" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
