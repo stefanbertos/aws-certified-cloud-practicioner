@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:19:02.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hHfIrB1VzS_jYDyunRPE" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:21:11.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QPN4kIGMP7zDnRH-nZJu" version="17.4.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -517,6 +517,9 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1625" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1624">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1635" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1634">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Go3iSsEfG03xtx_T8QIx-1543" value="Database" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#33FFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="720" y="1220" width="120" height="120" as="geometry" />
         </mxCell>
@@ -762,6 +765,15 @@
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1632" value="Fully managed message queues for microservices, distributed systems, and serverless applications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1630">
           <mxGeometry y="49" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1637" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="422.5" y="1440" width="205" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1634" value="AWS DMS" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1637">
+          <mxGeometry x="42.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1636" value="AWS Database Migration Service (AWS DMS) helps you migrate databases to AWS quickly and securely." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1637">
+          <mxGeometry y="60" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
