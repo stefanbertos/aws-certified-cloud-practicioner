@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:05:23.765Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_TWNz4AmuQhUsTQB12dM" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:06:54.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Ck01YyFq0KzeFuE3O-9k" version="17.4.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -179,12 +179,6 @@
           <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
             <mxPoint x="3.5" y="121.5" as="sourcePoint" />
             <mxPoint x="1274.9285714285716" y="181.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1407" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" edge="1">
-          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
-            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
-            <mxPoint x="1298.5" y="241.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1408" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;" parent="1" source="1351" edge="1">
@@ -691,8 +685,26 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1608" value="AWS Certificate Manager" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1223.5" y="414" width="156.5" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1609" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="466.5" width="60" height="30" as="geometry" />
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1612" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1351" target="P4CbewZ5qaZaSDbY6l-O-1611">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="1217.0512089035074" y="274.4395486923768" as="sourcePoint" />
+            <mxPoint x="1351.75" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1613" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1241.75" y="160" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1610" value="AWS CloudHSM" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1613">
+          <mxGeometry x="31.75" width="156.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1611" value="AWS CloudHSM is a cloud-based hardware security module (HSM) that enables you to easily generate and use your own encryption keys on the AWS Cloud." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1613">
+          <mxGeometry y="70" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1407" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F5AF58;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" parent="P4CbewZ5qaZaSDbY6l-O-1613" source="P4CbewZ5qaZaSDbY6l-O-1611" edge="1" target="P4CbewZ5qaZaSDbY6l-O-1610">
+          <mxGeometry x="3.5" y="21.5" width="100" height="100" as="geometry">
+            <mxPoint x="3.5" y="121.5" as="sourcePoint" />
+            <mxPoint x="1298.5" y="241.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
