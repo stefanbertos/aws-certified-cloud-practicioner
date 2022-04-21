@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:11:12.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UXCvvkZXw9aVDcyirlHr" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:16:09.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="osj1MBYZsTcO1RsenU9W" version="17.4.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
             <mxPoint x="2150.1666666666665" y="966.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1454" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1353" edge="1">
+        <mxCell id="1454" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;entryX=0.617;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1353" edge="1" target="P4CbewZ5qaZaSDbY6l-O-1622">
           <mxGeometry x="-24" y="196.5" width="100" height="100" as="geometry">
             <mxPoint x="-24" y="296.5" as="sourcePoint" />
             <mxPoint x="2035.705882352941" y="1016.5" as="targetPoint" />
@@ -481,7 +481,7 @@
             <mxPoint x="237.7894736842104" y="856.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1539" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" edge="1">
+        <mxCell id="1539" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#A29DC5;html=1;" parent="1" source="1516" edge="1" target="P4CbewZ5qaZaSDbY6l-O-1619">
           <mxGeometry x="-1498" y="-303.5" width="100" height="100" as="geometry">
             <mxPoint x="-1498" y="-203.5" as="sourcePoint" />
             <mxPoint x="157" y="812.7727272727273" as="targetPoint" />
@@ -717,6 +717,21 @@
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1616" value="Amazon Elastic Transcoder is media transcoding in the cloud. It is designed to be a highly scalable, easy to use and a cost effective way for developers and businesses to convert (or “transcode”) media files from their source format into versions that will playback on devices like smartphones, tablets and PCs." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1617">
           <mxGeometry y="80" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1618" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="820" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1619" value="AWS EC2" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1618">
+          <mxGeometry x="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1621" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1960" y="1050" width="169" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1622" value="Amazon Route 53" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1621">
+          <mxGeometry x="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1623" value="Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1621">
+          <mxGeometry y="50" width="169" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
