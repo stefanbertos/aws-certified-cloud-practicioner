@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:31:57.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="sf2LIz2TbbNWKYCcEmxK" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:33:29.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="abwvpcorJYh2wBK3WbuY" version="17.4.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
             <mxPoint x="1898.9310344827586" y="291.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1430" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;" parent="1" source="1352" edge="1">
+        <mxCell id="1430" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#F08E81;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="1352" edge="1" target="P4CbewZ5qaZaSDbY6l-O-1660">
           <mxGeometry x="31" y="106.5" width="100" height="100" as="geometry">
             <mxPoint x="31" y="206.5" as="sourcePoint" />
             <mxPoint x="1918.6666666666665" y="361.5" as="targetPoint" />
@@ -828,6 +828,18 @@
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1656" value="Object storage built to retrieve any amount of data from anywhere" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1654">
           <mxGeometry y="51" width="156.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1658" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2550" y="120" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1659" value="" style="group" vertex="1" connectable="0" parent="P4CbewZ5qaZaSDbY6l-O-1658">
+          <mxGeometry x="9.5" width="220.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1660" value="AWS CloudFormation" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1659">
+          <mxGeometry width="147" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1661" value="&lt;div&gt;AWS CloudFormation lets you model, provision, and manage AWS and third-party resources by treating infrastructure as code.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P4CbewZ5qaZaSDbY6l-O-1658">
+          <mxGeometry x="9.5" y="70" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
