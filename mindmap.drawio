@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:25:11.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="v4Wufa0MJolEZRCJpE3J" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:28:34.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CXpcjRNHE86U9S7BKQpW" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="1693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1701" y="356.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1353" value="Networking" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="810" width="120" height="120" as="geometry" />
+          <mxGeometry x="1710" y="766.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1590" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#A29DC5;strokeWidth=3;" parent="1" source="1354" target="P4CbewZ5qaZaSDbY6l-O-1588" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="2080.5" y="620" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1355" value="Storage" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1163.5" y="1309" width="120" height="120" as="geometry" />
+          <mxGeometry x="1270" y="1020" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1648" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="1356" target="P4CbewZ5qaZaSDbY6l-O-1646" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -289,20 +289,11 @@
         <mxCell id="Go3iSsEfG03xtx_T8QIx-1542" value="AWS KMS" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="915" y="271.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1555" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1554" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1602" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1601" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1625" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1624" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1635" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1634" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Go3iSsEfG03xtx_T8QIx-1543" value="Database" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#33FFFF;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="755" y="1160.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1548" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1520" y="330" width="120" height="70" as="geometry" />
@@ -332,7 +323,7 @@
           <mxGeometry x="10" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1559" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1280" y="1220" width="210" height="79" as="geometry" />
+          <mxGeometry x="1400" y="980" width="210" height="79" as="geometry" />
         </mxCell>
         <mxCell id="1478" value="Amazon Glacier" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1559" vertex="1">
           <mxGeometry x="40" width="120" height="40" as="geometry" />
@@ -341,7 +332,7 @@
           <mxGeometry y="49" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1569" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1330" y="1350" width="240" height="70" as="geometry" />
+          <mxGeometry x="1440" y="1090.5" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1566" value="Amazon Elastic Block Storage (EBS)" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1569" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
@@ -349,17 +340,8 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1568" value="Easy to use, high performance block storage at any scale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1569" vertex="1">
           <mxGeometry x="25" y="40" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1571" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1495.5" y="960" width="169" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="1445" value="Amazon CloudFront" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1571" vertex="1">
-          <mxGeometry x="20" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1570" value="Securely deliver content with low latency and high transfer speeds -= CDN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1571" vertex="1">
-          <mxGeometry y="50" width="169" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1574" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1007" y="1249" width="156.5" height="81" as="geometry" />
+          <mxGeometry x="1103.5" y="1009.5" width="156.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1572" value="Amazon ElastiCache" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1574" vertex="1">
           <mxGeometry x="21.5" width="120" height="40" as="geometry" />
@@ -437,13 +419,25 @@
           <mxGeometry y="46.5" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1604" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="585" y="980" width="365" height="110.5" as="geometry" />
+          <mxGeometry x="650" y="980" width="395" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1601" value="Amazon RDS" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="P4CbewZ5qaZaSDbY6l-O-1604" vertex="1">
-          <mxGeometry x="140" width="120" height="40" as="geometry" />
+        <mxCell id="Go3iSsEfG03xtx_T8QIx-1543" value="Database" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#33FFFF;strokeColor=none;" parent="P4CbewZ5qaZaSDbY6l-O-1604" vertex="1">
+          <mxGeometry x="275" y="35.5" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1603" value="Amazon Relational Database Service (RDS) is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Choose from seven popular engines — Amazon Aurora with MySQL compatibility, Amazon Aurora with PostgreSQL compatibility, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server — and deploy on-premises with Amazon RDS on AWS Outposts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1604" vertex="1">
-          <mxGeometry y="80.5" width="365" height="30" as="geometry" />
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1561" value="" style="group" vertex="1" connectable="0" parent="P4CbewZ5qaZaSDbY6l-O-1604">
+          <mxGeometry x="52.5" y="80.5" width="165" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1575" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1561">
+          <mxGeometry y="-14.5" width="165" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1554" value="Amazon Aurora" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1575" vertex="1">
+          <mxGeometry x="22.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1557" value="MySQL and PostgreSQL-compatible relational database built for the cloud." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1575" vertex="1">
+          <mxGeometry y="65" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1555" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="P4CbewZ5qaZaSDbY6l-O-1604" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1554" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1605" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1620" y="518.25" width="120" height="70" as="geometry" />
@@ -502,41 +496,14 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1542" value="Secure and resizable compute capacity for virtually any workload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1543">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1621" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1664.5" y="830" width="169" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1622" value="Amazon Route 53" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1621" vertex="1">
-          <mxGeometry x="20" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1623" value="Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1621" vertex="1">
-          <mxGeometry y="50" width="169" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1627" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="747" y="1309" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1624" value="Amazon DynamoDB" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="P4CbewZ5qaZaSDbY6l-O-1627" vertex="1">
-          <mxGeometry x="50" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1626" value="Fast, flexible NoSQL database service for single-digit millisecond performance at any scale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1627" vertex="1">
-          <mxGeometry y="50" width="260" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1633" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#F8CECC;strokeWidth=3;" parent="1" source="P4CbewZ5qaZaSDbY6l-O-1628" target="P4CbewZ5qaZaSDbY6l-O-1631" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1628" value="Integration" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#F8CECC;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1196.5" y="930" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1630" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1316.5" y="1040" width="210" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1631" value="Amazon SQS" style="rounded=1;fillColor=#F8CECC;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1630" vertex="1">
-          <mxGeometry x="40" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1632" value="Fully managed message queues for microservices, distributed systems, and serverless applications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1630" vertex="1">
-          <mxGeometry y="49" width="210" height="30" as="geometry" />
+          <mxGeometry x="1331" y="830" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1637" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="542" y="1270" width="205" height="90" as="geometry" />
+          <mxGeometry x="770" y="1160.5" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1634" value="AWS DMS" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="P4CbewZ5qaZaSDbY6l-O-1637" vertex="1">
           <mxGeometry x="42.5" width="120" height="40" as="geometry" />
@@ -572,7 +539,7 @@
           <mxGeometry x="15" y="63.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1654" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1160" y="1450" width="156.5" height="81" as="geometry" />
+          <mxGeometry x="1270" y="1160.5" width="156.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1655" value="Amazon S3" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1654" vertex="1">
           <mxGeometry x="21.5" width="120" height="40" as="geometry" />
@@ -646,15 +613,6 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1559" value="&lt;span style=&quot;color: rgb(28 , 29 , 31) ; font-family: &amp;#34;udemy sans&amp;#34; , &amp;#34;sf pro text&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;AWS Infrastructure Event Management&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="755" y="391.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1561" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="535" y="1150" width="165" height="80.5" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1554" value="Amazon Aurora" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1561" vertex="1">
-          <mxGeometry x="22.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1557" value="MySQL and PostgreSQL-compatible relational database built for the cloud." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1561" vertex="1">
-          <mxGeometry y="50.5" width="165" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1562" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2300" y="616.5" width="180" height="150" as="geometry" />
         </mxCell>
@@ -675,6 +633,57 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1555" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="815" y="216.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1566" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1835.5" y="830" width="169" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1621" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1566" vertex="1" connectable="0">
+          <mxGeometry width="169" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1623" value="Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1621" vertex="1">
+          <mxGeometry y="62.5" width="169" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1622" value="Amazon Route 53" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1566" vertex="1">
+          <mxGeometry x="24.5" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1571" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1655.5" y="910" width="169" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1445" value="Amazon CloudFront" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1571" vertex="1">
+          <mxGeometry x="24.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1570" value="Securely deliver content with low latency and high transfer speeds -= CDN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1571" vertex="1">
+          <mxGeometry y="60" width="169" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1572" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1455" y="850" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1631" value="Amazon SQS" style="rounded=1;fillColor=#F8CECC;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1572" vertex="1">
+          <mxGeometry x="45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1632" value="Fully managed message queues for microservices, distributed systems, and serverless applications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1572" vertex="1">
+          <mxGeometry y="50" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1602" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1601" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1574" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="870" width="365" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1601" value="Amazon RDS" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1574" vertex="1">
+          <mxGeometry x="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1603" value="Amazon Relational Database Service (RDS) is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Choose from seven popular engines — Amazon Aurora with MySQL compatibility, Amazon Aurora with PostgreSQL compatibility, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server — and deploy on-premises with Amazon RDS on AWS Outposts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1574" vertex="1">
+          <mxGeometry y="80" width="365" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1577" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="963.5" y="1150" width="260" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1624" value="Amazon DynamoDB" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1577" vertex="1">
+          <mxGeometry x="56.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1626" value="Fast, flexible NoSQL database service for single-digit millisecond performance at any scale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1577" vertex="1">
+          <mxGeometry y="50.5" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
