@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:37:51.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="UVyZd272aTcCRgCSq7A_" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:56:57.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="NkGE7iDpw9vDyfPgNbPK" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -494,7 +494,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1628" value="Integration" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="1391" y="870" width="120" height="120" as="geometry" />
+          <mxGeometry x="1360" y="920" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1637" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="770" y="1160.5" width="205" height="90" as="geometry" />
@@ -687,6 +687,18 @@
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1572" value="Amazon ElastiCache" style="rounded=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;shadow=0;html=1;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1080" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1586" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1206" y="847" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1587" value="Amazon SNS" style="rounded=1;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1586">
+          <mxGeometry x="45" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1588" value="Fully managed pub/sub messaging, SMS, email, and mobile push notifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1586">
+          <mxGeometry y="50" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1589" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1587" target="P4CbewZ5qaZaSDbY6l-O-1628">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
