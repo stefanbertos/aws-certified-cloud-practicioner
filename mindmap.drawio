@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T13:01:52.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="SNaEKbWzSkwJOHuiUobP" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T13:21:58.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="mTQGZMdoU12zr4xNhCrf" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="1352" value="Developer tools" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1659.5" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1604" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#1699D3;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1603">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1609" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#1699D3;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1608">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1353" value="Networking" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1750" y="820" width="120" height="120" as="geometry" />
@@ -241,7 +247,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1629" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;" parent="1" source="1515" target="P4CbewZ5qaZaSDbY6l-O-1628" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1563" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="1515" target="Go3iSsEfG03xtx_T8QIx-1543">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1563" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1515" target="Go3iSsEfG03xtx_T8QIx-1543">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1515" value="AWS Certified Cloud &lt;br&gt;Practicioner" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;align=center;strokeColor=#d79b00;strokeWidth=6;fillColor=#ffcd28;fontStyle=1;gradientColor=#ffa500;" parent="1" vertex="1">
@@ -694,7 +700,7 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1588" value="Fully managed pub/sub messaging, SMS, email, and mobile push notifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1586">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1589" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1587" target="P4CbewZ5qaZaSDbY6l-O-1628">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1589" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6D1F00;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1587" target="P4CbewZ5qaZaSDbY6l-O-1628">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1591" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -706,7 +712,7 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1593" value="The most trusted way to start, run, and scale Kubernetes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1591">
           <mxGeometry y="40" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#60A917;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1595" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -721,8 +727,20 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1598" value="Serverless compute for containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1596">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1599" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#60A917;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1597" target="1516">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1599" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1597" target="1516">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1600" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2060" y="770" width="169" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1603" value="Amazon VPC" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1600">
+          <mxGeometry x="24.5" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1605" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1870" y="1141" width="169" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1608" value="Amazon ELB" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1605">
+          <mxGeometry x="24.5" y="10" width="135.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
