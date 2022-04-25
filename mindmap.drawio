@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T11:34:03.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="Oh_Y-hlzBMYfB3kkiJMv" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T11:37:20.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MLqfDuOSvDW1uV-r0OUE" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -569,7 +569,7 @@
           <mxGeometry y="51" width="156.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1577" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="880" y="180" width="370" height="100" as="geometry" />
+          <mxGeometry x="861" y="200" width="370" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1575" value="AWS Shield" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1577" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
@@ -864,6 +864,12 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1558" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1555" target="JDsN5YcXbBO9Q6KNKqnr-1546">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1560" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1559" target="JDsN5YcXbBO9Q6KNKqnr-1546">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1559" value="&lt;span style=&quot;color: rgb(28 , 29 , 31) ; font-family: &amp;#34;udemy sans&amp;#34; , &amp;#34;sf pro text&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;AWS Infrastructure Event Management&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="446.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
