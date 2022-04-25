@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:32:54.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TGApCYcCU-HiCMb2xrUP" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:33:29.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZU_HMHMCQE1gVvRz6FMM" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1778" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1497" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1350" value="Support&lt;br&gt;plans" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="1350" value="Support&lt;br&gt;plans" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#ffffff;align=center;strokeWidth=3;fillColor=#647687;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="523.5" y="271.5" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1351" value="Security" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#F08705;strokeColor=none;gradientColor=none;" parent="1" vertex="1">
@@ -73,7 +73,7 @@
             <mxPoint x="281" y="226.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1372" value="Developer" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="1372" value="Developer" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="292.5" y="170" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1384" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#64BBE2;html=1;" parent="1" source="1350" target="1372" edge="1">
@@ -556,13 +556,13 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1664" value="Everything you need to access and manage the AWS Cloud — in one web interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1662" vertex="1">
           <mxGeometry x="17.5" y="56.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1544" value="Business" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1544" value="Business" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="422.5" y="90" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1545" value="Enterprise On-Ramp" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1545" value="Enterprise On-Ramp" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="630" y="226.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1546" value="Enterprise" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1546" value="Enterprise" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="715" y="300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1548" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1547" target="1372">
