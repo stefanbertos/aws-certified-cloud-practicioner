@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:36:43.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iFVF8uNpF31FQih-9osG" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:37:18.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_6P1fZXHJTDZ3U_n7EAC" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2844" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
             <mxPoint x="1611" y="371.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1629" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#F8CECC;strokeWidth=3;" parent="1" source="1515" target="P4CbewZ5qaZaSDbY6l-O-1628" edge="1">
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1629" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;" parent="1" source="1515" target="P4CbewZ5qaZaSDbY6l-O-1628" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1563" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="1515" target="Go3iSsEfG03xtx_T8QIx-1543">
@@ -490,10 +490,10 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1542" value="Secure and resizable compute capacity for virtually any workload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1543">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1633" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#F8CECC;strokeWidth=3;" parent="1" source="P4CbewZ5qaZaSDbY6l-O-1628" target="P4CbewZ5qaZaSDbY6l-O-1631" edge="1">
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1633" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;" parent="1" source="P4CbewZ5qaZaSDbY6l-O-1628" target="P4CbewZ5qaZaSDbY6l-O-1631" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1628" value="Integration" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#F8CECC;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1628" value="Integration" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1391" y="870" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1637" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -631,7 +631,7 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1572" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1550" y="910" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1631" value="Amazon SQS" style="rounded=1;fillColor=#F8CECC;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1572" vertex="1">
+        <mxCell id="P4CbewZ5qaZaSDbY6l-O-1631" value="Amazon SQS" style="rounded=1;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1572" vertex="1">
           <mxGeometry x="45" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1632" value="Fully managed message queues for microservices, distributed systems, and serverless applications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1572" vertex="1">
