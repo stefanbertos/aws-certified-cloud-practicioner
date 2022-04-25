@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:58:58.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="X7E3NHmFmC_S_nY4xGyW" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T13:00:05.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9nFYrYALCX-Z-cm45nz7" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -711,6 +711,18 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1595" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="900" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1596" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1595">
+          <mxGeometry x="-40" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1597" value="AWS Fargate" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1596">
+          <mxGeometry x="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1598" value="Serverless compute for containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1596">
+          <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
