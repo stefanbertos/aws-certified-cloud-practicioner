@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:20:57.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZMZC6q6ukHP9L3VT_u8i" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:21:08.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="2KJYMXlIhLKjAFbvv80J" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2591" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,7 +368,7 @@
           <mxGeometry x="5" y="40" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1553" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="140" y="490" width="150" height="80" as="geometry" />
+          <mxGeometry x="360" y="670" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1491" value="AWS Pricint Calculator" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1553" vertex="1">
           <mxGeometry width="150" height="50" as="geometry" />
@@ -620,7 +620,7 @@
           <mxGeometry x="2367.5" y="640" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1645" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="570" y="496.5" width="150" height="80" as="geometry" />
+          <mxGeometry x="510" y="510" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1646" value="AWS Budgets" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1645" vertex="1">
           <mxGeometry width="150" height="50" as="geometry" />
@@ -629,7 +629,7 @@
           <mxGeometry x="15" y="63.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1649" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="230" y="320" width="150" height="80" as="geometry" />
+          <mxGeometry x="330" y="366.5" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1650" value="AWS Cost Explorer" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="P4CbewZ5qaZaSDbY6l-O-1649" vertex="1">
           <mxGeometry width="150" height="50" as="geometry" />
@@ -668,7 +668,7 @@
           <mxGeometry x="17.5" y="56.5" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1666" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-120" y="306.5" width="270" height="123.5" as="geometry" />
+          <mxGeometry x="120" y="493" width="270" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1671" value="" style="group" parent="P4CbewZ5qaZaSDbY6l-O-1666" vertex="1" connectable="0">
           <mxGeometry x="-60" y="-10" width="270" height="133.5" as="geometry" />
