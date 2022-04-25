@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T13:28:12.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9Ou5PnQjtxeVN4_mda15" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T13:30:59.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="J4XjlmIIEC5ZlRvdA0LY" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -285,9 +285,6 @@
             <mxPoint x="137" y="771.5" as="sourcePoint" />
             <mxPoint x="137" y="771.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XBXUHwZQsRKUEbLr382d-1542" value="AWS Arfifact" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="920" y="366.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Go3iSsEfG03xtx_T8QIx-1542" value="AWS KMS" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="915" y="271.5" width="120" height="40" as="geometry" />
@@ -753,6 +750,15 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1612" value="Record and evaluate configurations of your AWS resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1610">
           <mxGeometry y="46.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1615" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="855" y="366.5" width="230" height="73.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XBXUHwZQsRKUEbLr382d-1542" value="AWS Arfifact" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1615" vertex="1">
+          <mxGeometry x="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1614" value="No cost, self-service portal for on-demand access to AWS’ compliance reportsText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1615">
+          <mxGeometry y="43.5" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
