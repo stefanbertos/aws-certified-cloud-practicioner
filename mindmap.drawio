@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T12:58:52.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="zPjGZYYHGWSySuS1_95-" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T12:58:58.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="X7E3NHmFmC_S_nY4xGyW" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -708,6 +708,9 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1593" value="The most trusted way to start, run, and scale Kubernetes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1591">
           <mxGeometry y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
