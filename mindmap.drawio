@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T14:34:01.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="pNWflmM6r-djISuXaUyd" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T14:38:17.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3tZSnJJn20qIu624qwtz" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1673" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3160" dy="2520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,6 +257,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1563" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1515" target="Go3iSsEfG03xtx_T8QIx-1543">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1654" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" edge="1" parent="1" source="1515" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1515" value="AWS Certified Cloud &lt;br&gt;Practicioner" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;align=center;strokeColor=#d79b00;strokeWidth=6;fillColor=#ffcd28;fontStyle=1;gradientColor=#ffa500;" parent="1" vertex="1">
@@ -852,6 +855,24 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1648" value="The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1651">
           <mxGeometry y="70" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="Analytics" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="960" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1660" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="688.5" y="434" width="250" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1655" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1660">
+          <mxGeometry width="230" height="73.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1656" value="Amazon EMR" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1655">
+          <mxGeometry x="65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1657" value="Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning (ML) applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1660">
+          <mxGeometry x="20" y="76" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
