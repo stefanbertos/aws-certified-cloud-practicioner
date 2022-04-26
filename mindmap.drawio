@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T10:04:23.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="APg6pp4U2LQmWrcXBxgR" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T10:06:24.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="LgavUSqI6yM0FKP7VY-L" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="3200" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -891,6 +891,18 @@
         </mxCell>
         <mxCell id="kRNzgPM9W05sCUSI7VgW-1547" value="AWS publishes security bulletins about the latest security and privacy events with AWS services on the Security Bulletins page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kRNzgPM9W05sCUSI7VgW-1545">
           <mxGeometry x="-14" y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNzgPM9W05sCUSI7VgW-1554" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1085" y="1270" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNzgPM9W05sCUSI7VgW-1552" value="AWS Storage Gateway" style="rounded=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;shadow=0;html=1;fontColor=#000000;fontStyle=1" vertex="1" parent="kRNzgPM9W05sCUSI7VgW-1554">
+          <mxGeometry x="75" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNzgPM9W05sCUSI7VgW-1553" value="nterprises can extend their on-premises storage to AWS Cloud for long-term backup retention and archiving, optimizing costs and increasing resilience and availability. AWS Storage Gateway is a hybrid storage service that enables on-premises applications to seamlessly use AWS cloud storage." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kRNzgPM9W05sCUSI7VgW-1554">
+          <mxGeometry y="80" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNzgPM9W05sCUSI7VgW-1555" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#C73500;strokeWidth=3;" edge="1" parent="1" source="kRNzgPM9W05sCUSI7VgW-1552" target="1355">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
