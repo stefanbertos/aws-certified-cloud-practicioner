@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T15:05:18.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="uxECLYuKAv-oJqJRDeM1" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T10:02:43.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="-piYrshMRRHGv49az_ky" version="17.4.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2117" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3200" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,19 +13,19 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1546" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=#F08E81;strokeWidth=3;" parent="1" source="1352" target="P4CbewZ5qaZaSDbY6l-O-1542" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1652" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" edge="1" parent="1" source="1352" target="JDsN5YcXbBO9Q6KNKqnr-1647">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1652" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" parent="1" source="1352" target="JDsN5YcXbBO9Q6KNKqnr-1647" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1352" value="Developer tools" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#E85642;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1659.5" y="240" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1604" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#1699D3;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1603">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1604" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#1699D3;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1603" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1609" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#1699D3;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1608">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1609" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#1699D3;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1608" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1638" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#1699D3;strokeWidth=3;" edge="1" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1635">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1638" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#1699D3;strokeWidth=3;" parent="1" source="1353" target="JDsN5YcXbBO9Q6KNKqnr-1635" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1353" value="Networking" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#1699D3;strokeColor=none;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1665" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#736CA8;strokeWidth=3;" parent="1" source="1354" target="P4CbewZ5qaZaSDbY6l-O-1663" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1613" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#736CA8;strokeWidth=3;" edge="1" parent="1" source="1354" target="JDsN5YcXbBO9Q6KNKqnr-1611">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1613" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#736CA8;strokeWidth=3;" parent="1" source="1354" target="JDsN5YcXbBO9Q6KNKqnr-1611" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1354" value="Operations" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;align=center;strokeWidth=3;fillColor=#736CA8;strokeColor=none;" parent="1" vertex="1">
@@ -97,19 +97,19 @@
             <mxPoint x="-121.5" y="56.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1385" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#314354;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#647687;" parent="1" source="1350" edge="1" target="JDsN5YcXbBO9Q6KNKqnr-1544">
+        <mxCell id="1385" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#314354;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#647687;" parent="1" source="1350" target="JDsN5YcXbBO9Q6KNKqnr-1544" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="-221.5" y="156.5" as="sourcePoint" />
             <mxPoint x="662.590909090909" y="186.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1386" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#314354;html=1;entryX=0.438;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#647687;" parent="1" source="1350" edge="1" target="JDsN5YcXbBO9Q6KNKqnr-1545">
+        <mxCell id="1386" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#314354;html=1;entryX=0.438;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#647687;" parent="1" source="1350" target="JDsN5YcXbBO9Q6KNKqnr-1545" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="-221.5" y="156.5" as="sourcePoint" />
             <mxPoint x="700.8809523809523" y="246.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1387" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#314354;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#647687;" parent="1" source="1350" edge="1" target="JDsN5YcXbBO9Q6KNKqnr-1546">
+        <mxCell id="1387" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#314354;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#647687;" parent="1" source="1350" target="JDsN5YcXbBO9Q6KNKqnr-1546" edge="1">
           <mxGeometry x="-221.5" y="56.5" width="100" height="100" as="geometry">
             <mxPoint x="-221.5" y="156.5" as="sourcePoint" />
             <mxPoint x="698.5" y="302.75" as="targetPoint" />
@@ -256,10 +256,10 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1629" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;" parent="1" source="1515" target="P4CbewZ5qaZaSDbY6l-O-1628" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1563" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="1515" target="Go3iSsEfG03xtx_T8QIx-1543">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1563" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.992;entryY=0.292;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#33FFFF;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="1515" target="Go3iSsEfG03xtx_T8QIx-1543" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1654" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" edge="1" parent="1" source="1515" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1654" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" parent="1" source="1515" target="JDsN5YcXbBO9Q6KNKqnr-1653" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1515" value="AWS Certified Cloud &lt;br&gt;Practicioner" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=30;align=center;strokeColor=#d79b00;strokeWidth=6;fillColor=#ffcd28;fontStyle=1;gradientColor=#ffa500;" parent="1" vertex="1">
@@ -433,10 +433,10 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1555" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="P4CbewZ5qaZaSDbY6l-O-1604" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1554" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1575" value="" style="group" vertex="1" connectable="0" parent="P4CbewZ5qaZaSDbY6l-O-1604">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1575" value="" style="group" parent="P4CbewZ5qaZaSDbY6l-O-1604" vertex="1" connectable="0">
           <mxGeometry x="52.5" y="60" width="165" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1590" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1575">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1590" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1575" vertex="1" connectable="0">
           <mxGeometry width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1554" value="Amazon Aurora" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1590" vertex="1">
@@ -493,13 +493,13 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1618" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="250" y="1061" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1543" value="" style="group" vertex="1" connectable="0" parent="P4CbewZ5qaZaSDbY6l-O-1618">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1543" value="" style="group" parent="P4CbewZ5qaZaSDbY6l-O-1618" vertex="1" connectable="0">
           <mxGeometry x="-40" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1619" value="AWS EC2" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="JDsN5YcXbBO9Q6KNKqnr-1543" vertex="1">
           <mxGeometry x="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1542" value="Secure and resizable compute capacity for virtually any workload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1543">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1542" value="Secure and resizable compute capacity for virtually any workload" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1543" vertex="1">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1633" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#6D1F00;strokeWidth=3;fillColor=#a0522d;" parent="1" source="P4CbewZ5qaZaSDbY6l-O-1628" target="P4CbewZ5qaZaSDbY6l-O-1631" edge="1">
@@ -565,40 +565,40 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1664" value="Everything you need to access and manage the AWS Cloud — in one web interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="P4CbewZ5qaZaSDbY6l-O-1662" vertex="1">
           <mxGeometry x="17.5" y="56.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1544" value="Business" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1544" value="Business" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="90" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1545" value="Enterprise On-Ramp" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1545" value="Enterprise On-Ramp" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="630" y="226.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1546" value="Enterprise" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1546" value="Enterprise" style="rounded=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="715" y="300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1548" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1547" target="1372">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1548" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1547" target="1372" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1547" value="experimens/testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1547" value="experimens/testing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="73.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1550" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1549" target="JDsN5YcXbBO9Q6KNKqnr-1544">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1550" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1549" target="JDsN5YcXbBO9Q6KNKqnr-1544" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1549" value="prod workloads,&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(247 , 247 , 247)&quot;&gt;24x7 phone, email, and chat access to Cloud Support Engineers,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Greater of $100 / month&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1549" value="prod workloads,&amp;nbsp;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(247 , 247 , 247)&quot;&gt;24x7 phone, email, and chat access to Cloud Support Engineers,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Greater of $100 / month&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="20" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1552" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1551" target="JDsN5YcXbBO9Q6KNKqnr-1545">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1552" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1551" target="JDsN5YcXbBO9Q6KNKqnr-1545" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1551" value="&lt;i style=&quot;box-sizing: border-box ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; color: rgb(51 , 51 , 51) ; text-align: left&quot;&gt;Recommended if you have production and/or business critical workloads in AWS,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(247 , 247 , 247)&quot;&gt;24x7 phone, email, and chat access to Cloud Support Engineers,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;A pool of Technical Account Managers to provide proactive guidance, and coordinate access to programs and AWS experts,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;Concierge Support Team,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Greater of $5,500&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1551" value="&lt;i style=&quot;box-sizing: border-box ; font-family: &amp;#34;amazonember&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; color: rgb(51 , 51 , 51) ; text-align: left&quot;&gt;Recommended if you have production and/or business critical workloads in AWS,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(247 , 247 , 247)&quot;&gt;24x7 phone, email, and chat access to Cloud Support Engineers,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;A pool of Technical Account Managers to provide proactive guidance, and coordinate access to programs and AWS experts,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;Concierge Support Team,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif&quot;&gt;Greater of $5,500&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="647.5" y="95" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1560" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1559" target="JDsN5YcXbBO9Q6KNKqnr-1546">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1560" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.438;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1559" target="JDsN5YcXbBO9Q6KNKqnr-1546" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1559" value="&lt;span style=&quot;color: rgb(28 , 29 , 31) ; font-family: &amp;#34;udemy sans&amp;#34; , &amp;#34;sf pro text&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;AWS Infrastructure Event Management&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1559" value="&lt;span style=&quot;color: rgb(28 , 29 , 31) ; font-family: &amp;#34;udemy sans&amp;#34; , &amp;#34;sf pro text&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;roboto&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;AWS Infrastructure Event Management&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="755" y="391.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1562" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1562" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1860" y="590" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1641" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1562" vertex="1" connectable="0">
@@ -616,10 +616,10 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1576" value="&lt;div&gt;Managed DDoS protection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="910" y="231.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1555" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1555" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;tahoma&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; background-color: rgb(247 , 247 , 247)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="815" y="216.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1566" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1566" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1940" y="830" width="169" height="100" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1621" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1566" vertex="1" connectable="0">
@@ -631,7 +631,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1622" value="Amazon Route 53" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1566" vertex="1">
           <mxGeometry x="24.5" y="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1571" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1571" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1950" y="1130" width="169" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1445" value="Amazon CloudFront" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1571" vertex="1">
@@ -640,7 +640,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1570" value="Securely deliver content with low latency and high transfer speeds -= CDN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1571" vertex="1">
           <mxGeometry y="60" width="169" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1572" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1572" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1550" y="910" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1631" value="Amazon SQS" style="rounded=1;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1572" vertex="1">
@@ -652,7 +652,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1602" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="Go3iSsEfG03xtx_T8QIx-1543" target="P4CbewZ5qaZaSDbY6l-O-1601" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1574" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1574" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="680" y="870" width="365" height="110" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1601" value="Amazon RDS" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1574" vertex="1">
@@ -661,7 +661,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1603" value="Amazon Relational Database Service (RDS) is a collection of managed services that makes it simple to set up, operate, and scale databases in the cloud. Choose from seven popular engines — Amazon Aurora with MySQL compatibility, Amazon Aurora with PostgreSQL compatibility, MySQL, MariaDB, PostgreSQL, Oracle, and SQL Server — and deploy on-premises with Amazon RDS on AWS Outposts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1574" vertex="1">
           <mxGeometry y="80" width="365" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1577" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1577" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="963.5" y="1150" width="260" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1624" value="Amazon DynamoDB" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1577" vertex="1">
@@ -676,7 +676,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1648" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#3A5431;strokeWidth=3;fillColor=#6d8764;" parent="1" source="1356" target="P4CbewZ5qaZaSDbY6l-O-1646" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1578" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1578" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="508.5" y="450" width="150" height="98.25" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1646" value="AWS Budgets" style="rounded=1;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1578" vertex="1">
@@ -685,7 +685,7 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1647" value="Improve planning and cost control with flexible budgeting and forecasting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1578" vertex="1">
           <mxGeometry x="30" y="68.25" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1581" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1581" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-80" y="325" width="380" height="176.5" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1666" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1581" vertex="1" connectable="0">
@@ -700,179 +700,185 @@
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1572" value="Amazon ElastiCache" style="rounded=1;fillColor=#fa6800;strokeColor=#C73500;strokeWidth=3;shadow=0;html=1;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1080" y="980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1586" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1586" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1206" y="847" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1587" value="Amazon SNS" style="rounded=1;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1586">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1587" value="Amazon SNS" style="rounded=1;fillColor=#a0522d;strokeColor=#6D1F00;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1586" vertex="1">
           <mxGeometry x="45" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1588" value="Fully managed pub/sub messaging, SMS, email, and mobile push notifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1586">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1588" value="Fully managed pub/sub messaging, SMS, email, and mobile push notifications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1586" vertex="1">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1589" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6D1F00;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1587" target="P4CbewZ5qaZaSDbY6l-O-1628">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1589" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6D1F00;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1587" target="P4CbewZ5qaZaSDbY6l-O-1628" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1591" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1591" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50" y="940" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1592" value="AWS EKS" style="rounded=1;fillColor=#60A917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1591">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1592" value="AWS EKS" style="rounded=1;fillColor=#60A917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="JDsN5YcXbBO9Q6KNKqnr-1591" vertex="1">
           <mxGeometry x="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1593" value="The most trusted way to start, run, and scale Kubernetes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1591">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1593" value="The most trusted way to start, run, and scale Kubernetes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1591" vertex="1">
           <mxGeometry y="40" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1595" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1595" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50" y="1037.5" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1596" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1595">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1596" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1595" vertex="1" connectable="0">
           <mxGeometry x="-40" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1597" value="AWS Fargate" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1596">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1597" value="AWS Fargate" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="JDsN5YcXbBO9Q6KNKqnr-1596" vertex="1">
           <mxGeometry x="50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1598" value="Serverless compute for containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1596">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1598" value="Serverless compute for containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1596" vertex="1">
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1599" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1597" target="1516">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1599" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1597" target="1516" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1600" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1600" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2080" y="760" width="219" height="162.5" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1603" value="Amazon VPC" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1600">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1603" value="Amazon VPC" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1600" vertex="1">
           <mxGeometry x="24.5" y="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1639" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1600">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1639" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1600" vertex="1" connectable="0">
           <mxGeometry x="20" y="187" width="169" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1640" value="AWS Direct Connect" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1639">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1640" value="AWS Direct Connect" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1639" vertex="1">
           <mxGeometry x="24.5" y="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1605" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1605" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1779.5" y="1137.5" width="169" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1608" value="Amazon ELB" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1605">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1608" value="Amazon ELB" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1605" vertex="1">
           <mxGeometry x="24.5" y="10" width="135.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1610" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1610" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1460" y="760" width="170" height="76.5" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1611" value="AWS Config" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1610">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1611" value="AWS Config" style="rounded=1;fillColor=#a29dc5;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1610" vertex="1">
           <mxGeometry x="25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1612" value="Record and evaluate configurations of your AWS resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1610">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1612" value="Record and evaluate configurations of your AWS resources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1610" vertex="1">
           <mxGeometry y="46.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1615" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1615" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="855" y="366.5" width="230" height="73.5" as="geometry" />
         </mxCell>
         <mxCell id="XBXUHwZQsRKUEbLr382d-1542" value="AWS Arfifact" style="rounded=1;fillColor=#f5af58;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1615" vertex="1">
           <mxGeometry x="65" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1614" value="No cost, self-service portal for on-demand access to AWS’ compliance reportsText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1615">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1614" value="No cost, self-service portal for on-demand access to AWS’ compliance reportsText" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1615" vertex="1">
           <mxGeometry y="43.5" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1616" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1616" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1929.5" y="83.25" width="189.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1617" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1616">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1617" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1616" vertex="1" connectable="0">
           <mxGeometry x="9.5" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1618" value="AWS X-ray" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1617">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1618" value="AWS X-ray" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1617" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1619" value="AWS X-Ray helps developers analyze and debug distributed applications in production or under development, such as those built using microservice architecture.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1619" value="AWS X-Ray helps developers analyze and debug distributed applications in production or under development, such as those built using microservice architecture.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1939" y="160" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1620" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1618" target="1352">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1620" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1618" target="1352" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1623" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1623" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="523.5" y="1137.5" width="165" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1624" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1623">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1624" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1623" vertex="1" connectable="0">
           <mxGeometry width="165" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1625" value="Amazon Redshift" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1624">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1625" value="Amazon Redshift" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1624" vertex="1">
           <mxGeometry x="22.5" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1626" value="Accelerate your time to insights with fast, easy, and secure cloud data warehousing at scale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1624">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1626" value="Accelerate your time to insights with fast, easy, and secure cloud data warehousing at scale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1624" vertex="1">
           <mxGeometry y="50" width="165" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1627" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1625" target="Go3iSsEfG03xtx_T8QIx-1543">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1627" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1625" target="Go3iSsEfG03xtx_T8QIx-1543" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1628" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1628" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1820" y="-10" width="189.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1629" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1628">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1629" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1628" vertex="1" connectable="0">
           <mxGeometry x="9.5" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1630" value="AWS Cloud9" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1629">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1630" value="AWS Cloud9" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1629" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1631" value="A cloud IDE for writing, running, and debugging code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1628">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1631" value="A cloud IDE for writing, running, and debugging code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1628" vertex="1">
           <mxGeometry y="60" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1632" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1630" target="1352">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1632" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1630" target="1352" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1634" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1634" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1680" y="1020" width="196.25" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1637" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1634">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1637" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1634" vertex="1" connectable="0">
           <mxGeometry x="-13.75" y="10" width="210" height="78.5" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1635" value="AWS Global Accelerator" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1637">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1635" value="AWS Global Accelerator" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1637" vertex="1">
           <mxGeometry x="40.20710059171598" width="146.32396449704143" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1636" value="Improve global application availability and performance using the AWS global network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1637">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1636" value="Improve global application availability and performance using the AWS global network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1637" vertex="1">
           <mxGeometry y="48.5" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1641" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1641" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2009.5" y="1037.5" width="169" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1642" value="AWS VPN" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1641">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1642" value="AWS VPN" style="rounded=1;fillColor=#64BBE2;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1641" vertex="1">
           <mxGeometry x="24.5" y="10" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1643" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.926;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#1699D3;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1642" target="1353">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1643" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.926;entryY=0.838;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#1699D3;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1642" target="1353" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1644" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.965;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#1699D3;strokeWidth=3;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1640" target="1353">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1644" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.965;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#1699D3;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1640" target="1353" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1651" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1651" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1533" y="-80" width="226.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1646" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1651">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1646" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1651" vertex="1" connectable="0">
           <mxGeometry x="46.5" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1647" value="AWS CLI" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1646">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1647" value="AWS CLI" style="rounded=1;fillColor=#f08e81;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;fontStyle=1" parent="JDsN5YcXbBO9Q6KNKqnr-1646" vertex="1">
           <mxGeometry width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1648" value="The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1651">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1648" value="The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1651" vertex="1">
           <mxGeometry y="70" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" edge="1" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="Analytics" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="Analytics" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="643.5" y="727" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1660" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1660" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="380" y="673.5" width="250" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1655" value="" style="group" vertex="1" connectable="0" parent="JDsN5YcXbBO9Q6KNKqnr-1660">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1655" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1660" vertex="1" connectable="0">
           <mxGeometry width="230" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1656" value="Amazon EMR" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1655">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1656" value="Amazon EMR" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" parent="JDsN5YcXbBO9Q6KNKqnr-1655" vertex="1">
           <mxGeometry x="65" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1657" value="Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning (ML) applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JDsN5YcXbBO9Q6KNKqnr-1660">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1657" value="Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning (ML) applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1660" vertex="1">
           <mxGeometry x="20" y="76" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNzgPM9W05sCUSI7VgW-1544" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kRNzgPM9W05sCUSI7VgW-1543" target="P4CbewZ5qaZaSDbY6l-O-1619">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kRNzgPM9W05sCUSI7VgW-1543" value="Per second billing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
