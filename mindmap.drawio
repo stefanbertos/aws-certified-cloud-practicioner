@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T13:01:27.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="U-Wx-ZVpuI684BH-eAn2" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T13:05:17.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XIHhViHigA44gZHQiTEb" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -835,7 +835,7 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1648" value="The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1651" vertex="1">
           <mxGeometry y="70" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.023;exitY=0.331;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;exitPerimeter=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656" edge="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="&lt;b&gt;Analytics&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
@@ -970,19 +970,7 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1546" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1544" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1547" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-370" y="550" width="250" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1548" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1547">
-          <mxGeometry width="230" height="76.27358490566037" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1549" value="Amazon CloudSearch" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1548">
-          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1550" value="&lt;div&gt;Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective&lt;/div&gt;&lt;div&gt;to set up, manage, and scale a search solution for your website or application. Amazon CloudSearch&lt;/div&gt;&lt;div&gt;supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial&lt;/div&gt;&lt;div&gt;search.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-350" y="649.9979245283018" width="230" height="31.132075471698112" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1551" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.036;entryY=0.366;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1549" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1551" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.307;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1549" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1553" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
@@ -1003,11 +991,13 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1558" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1555" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1563" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1561" target="JDsN5YcXbBO9Q6KNKqnr-1653">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1563" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-330" y="1120" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1564" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-350" y="1020" width="330" height="180" as="geometry" />
+          <mxGeometry x="-490" y="1120" width="330" height="180" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1559" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1564">
           <mxGeometry width="330" height="106" as="geometry" />
@@ -1022,7 +1012,7 @@
           <mxGeometry x="13.199999999999989" y="150" width="303.6" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1570" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-770" y="309.75" width="400" height="208.5" as="geometry" />
+          <mxGeometry x="-813.5" y="366.5" width="400" height="208.5" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1565" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1570">
           <mxGeometry x="51" width="270" height="123.5" as="geometry" />
@@ -1039,11 +1029,11 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1569" value="&lt;div&gt;Amazon OpenSearch Service (OpenSearch Service) makes it easy to deploy, secure, operate, and scale&lt;/div&gt;&lt;div&gt;OpenSearch to search, analyze, and visualize data in real-time. With Amazon OpenSearch Service,&lt;/div&gt;&lt;div&gt;you get easy-to-use APIs and real-time analytics capabilities to power use-cases such as log analytics,&lt;/div&gt;&lt;div&gt;full-text search, application monitoring, and clickstream analytics, with enterprise-grade availability,&lt;/div&gt;&lt;div&gt;scalability, and security. The service offers integrations with open-source tools like OpenSearch&lt;/div&gt;&lt;div&gt;Dashboards and Logstash for data ingestion and visualization. It also integrates seamlessly with other&lt;/div&gt;&lt;div&gt;AWS services such as Amazon Virtual Private Cloud (Amazon VPC), AWS Key Management Service (AWS&lt;/div&gt;&lt;div&gt;KMS), Amazon Kinesis Data Firehose, AWS Lambda, AWS Identity and Access Management (IAM), Amazon&lt;/div&gt;&lt;div&gt;Cognito, and Amazon CloudWatch, so that you can go from raw data to actionable insights quickly.&lt;/div&gt;&lt;div&gt;12&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1570">
           <mxGeometry y="178.5" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1571" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1568" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1571" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1568" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1576" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-820" y="656.75" width="650" height="153.25" as="geometry" />
+          <mxGeometry x="-870" y="716.75" width="650" height="153.25" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1572" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1576">
           <mxGeometry x="90" width="560" height="110" as="geometry" />
@@ -1057,11 +1047,11 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1575" value="&lt;div&gt;Amazon Redshift is the most widely used cloud data warehouse. It makes it fast, simple and costeffective to analyze all your data using standard SQL and your existing Business Intelligence (BI) tools.&lt;/div&gt;&lt;div&gt;It allows you to run complex analytic queries against terabytes to petabytes of structured and semistructured data, using sophisticated query optimization, columnar storage on high-performance storage,&lt;/div&gt;&lt;div&gt;and massively parallel query execution. Most results come back in seconds. You can start small for just&lt;/div&gt;&lt;div&gt;$0.25 per hour with no commitments and scale out to petabytes of data for $1,000 per terabyte per&lt;/div&gt;&lt;div&gt;year, less than a tenth the cost of traditional on-premises solutions&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1576">
           <mxGeometry y="123.25" width="495" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1577" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1574" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1577" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1574" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1582" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-751" y="947" width="581" height="123" as="geometry" />
+          <mxGeometry x="-350" y="410" width="581" height="123" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1578" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1582">
           <mxGeometry x="21" width="560" height="110" as="geometry" />
@@ -1075,11 +1065,11 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1581" value="&lt;div&gt;Amazon QuickSight is a fast, cloud-powered business intelligence (BI) service that makes it easy for you&lt;/div&gt;&lt;div&gt;to deliver insights to everyone in your organization. QuickSight lets you create and publish interactive&lt;/div&gt;&lt;div&gt;dashboards that can be accessed from browsers or mobile devices. You can embed dashboards into your&lt;/div&gt;&lt;div&gt;applications, providing your customers with powerful self-service analytics.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1582">
           <mxGeometry y="93" width="334" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1583" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.056;entryY=0.728;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1580" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1583" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.425;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1580" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1584" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-760" y="1150" width="581" height="123" as="geometry" />
+          <mxGeometry x="-846" y="971.5" width="581" height="123" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1585" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1584">
           <mxGeometry x="21" width="560" height="110" as="geometry" />
@@ -1096,32 +1086,11 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1589" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1587" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1593" value="&lt;div&gt;AWS Data Pipeline is a web service that helps you reliably process and move data between different&lt;/div&gt;&lt;div&gt;AWS compute and storage services, as well as on-premises data sources, at specified intervals. With AWS&lt;/div&gt;&lt;div&gt;Data Pipeline, you can regularly access your data where it’s stored, transform and process it at scale, and&lt;/div&gt;&lt;div&gt;efficiently transfer the results to AWS services such as Amazon S3 (p. 77), Amazon RDS (p. 30),&lt;/div&gt;&lt;div&gt;Amazon DynamoDB (p. 28), and Amazon EMR (p. 11).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-780.5" y="1380" width="334" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1592" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1591" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-744.5" y="1273" width="303" height="80.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1592" value="AWS Data Pipeline" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1591">
-          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1601" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-140" y="1380" width="370" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1595" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1601">
-          <mxGeometry x="31.796875" width="338.203125" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1596" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1595">
-          <mxGeometry x="2.890625" y="-14" width="335.3125" height="80.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1597" value="AWS Glue" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1596">
-          <mxGeometry x="37.58" width="142.42" height="41.51" as="geometry" />
-        </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1610" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-788.5" y="1560" width="350" height="150" as="geometry" />
+          <mxGeometry x="-220" y="1370" width="350" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1608" value="AWS MSK" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1610">
           <mxGeometry x="88.5" width="135" height="41.51" as="geometry" />
@@ -1129,7 +1098,7 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1609" value="&lt;div&gt;Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service that makes&lt;/div&gt;&lt;div&gt;it easy for you to build and run applications that use Apache Kafka to process streaming data. Apache&lt;/div&gt;&lt;div&gt;Kafka is an open-source platform for building real-time streaming data pipelines and applications.&lt;/div&gt;&lt;div&gt;With Amazon MSK, you can use Apache Kafka APIs to populate data lakes, stream changes to and from&lt;/div&gt;&lt;div&gt;databases, and power machine learning and analytics applications.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1610">
           <mxGeometry y="120" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1611" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.336;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1597" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1611" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1597" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1612" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.679;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1605" target="JDsN5YcXbBO9Q6KNKqnr-1653">
@@ -1159,8 +1128,53 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1606" value="&lt;div&gt;&lt;div&gt;AWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is&lt;/div&gt;&lt;div&gt;a centralized, curated, and secured repository that stores all your data, both in its original form and&lt;/div&gt;&lt;div&gt;prepared for analysis. A data lake enables you to break down data silos and combine different types of&lt;/div&gt;&lt;div&gt;analytics to gain insights and guide better business decisions.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1613">
           <mxGeometry y="86.5" width="385" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1598" value="&lt;div&gt;AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers&lt;/div&gt;&lt;div&gt;to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the&lt;/div&gt;&lt;div&gt;AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue&lt;/div&gt;&lt;div&gt;discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS&lt;/div&gt;&lt;div&gt;Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for&lt;/div&gt;&lt;div&gt;ETL.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-108.2" y="1520" width="222.578125" height="30" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1614" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="140" y="1350" width="370" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1601" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1614">
+          <mxGeometry width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1595" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1601">
+          <mxGeometry x="31.796875" width="338.203125" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1596" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1595">
+          <mxGeometry x="2.890625" y="-14" width="335.3125" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1597" value="AWS Glue" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1596">
+          <mxGeometry x="37.58" width="142.42" height="41.51" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1598" value="&lt;div&gt;AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers&lt;/div&gt;&lt;div&gt;to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the&lt;/div&gt;&lt;div&gt;AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue&lt;/div&gt;&lt;div&gt;discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS&lt;/div&gt;&lt;div&gt;Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for&lt;/div&gt;&lt;div&gt;ETL.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1614">
+          <mxGeometry x="21.799999999999997" y="140" width="222.578125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1615" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1608" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1616" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-330" y="640" width="250" height="148.49999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1547" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1616">
+          <mxGeometry width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1548" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1547">
+          <mxGeometry width="230" height="76.27358490566037" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1549" value="Amazon CloudSearch" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1548">
+          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1550" value="&lt;div&gt;Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective&lt;/div&gt;&lt;div&gt;to set up, manage, and scale a search solution for your website or application. Amazon CloudSearch&lt;/div&gt;&lt;div&gt;supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial&lt;/div&gt;&lt;div&gt;search.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1616">
+          <mxGeometry x="10" y="117.36792452830184" width="230" height="31.132075471698112" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1617" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-850" y="1106.5" width="334" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1593" value="&lt;div&gt;AWS Data Pipeline is a web service that helps you reliably process and move data between different&lt;/div&gt;&lt;div&gt;AWS compute and storage services, as well as on-premises data sources, at specified intervals. With AWS&lt;/div&gt;&lt;div&gt;Data Pipeline, you can regularly access your data where it’s stored, transform and process it at scale, and&lt;/div&gt;&lt;div&gt;efficiently transfer the results to AWS services such as Amazon S3 (p. 77), Amazon RDS (p. 30),&lt;/div&gt;&lt;div&gt;Amazon DynamoDB (p. 28), and Amazon EMR (p. 11).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1617">
+          <mxGeometry y="107" width="334" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1591" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1617">
+          <mxGeometry x="29.5" width="303" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1592" value="AWS Data Pipeline" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1591">
+          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
