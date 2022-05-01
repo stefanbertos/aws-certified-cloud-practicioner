@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:39:10.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="X8rhKHaKNlqJbsHsOrE8" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:41:12.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qMreb25XykaMVg7LG6GR" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1002,6 +1002,18 @@
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1546" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1544" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1547" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-370" y="550" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1548" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1547">
+          <mxGeometry width="230" height="76.27358490566037" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1549" value="Amazon CloudSearch" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1548">
+          <mxGeometry x="65" width="120" height="41.509433962264154" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1550" value="&lt;div&gt;Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective&lt;/div&gt;&lt;div&gt;to set up, manage, and scale a search solution for your website or application. Amazon CloudSearch&lt;/div&gt;&lt;div&gt;supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial&lt;/div&gt;&lt;div&gt;search.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="649.9979245283018" width="230" height="31.132075471698112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
