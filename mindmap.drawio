@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:46:23.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="AIK-LndDgg6WSKoew8ea" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:47:35.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cAJC4VtCTPtLzwBSVs2o" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1054,8 +1054,11 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1562" value="&lt;div&gt;Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get&lt;/div&gt;&lt;div&gt;timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to costeffectively process streaming data at any scale, along with the flexibility to choose the tools that best&lt;/div&gt;&lt;div&gt;suit the requirements of your application. With Amazon Kinesis, you can ingest real-time data such&lt;/div&gt;&lt;div&gt;as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning,&lt;/div&gt;&lt;div&gt;analytics, and other applications. Amazon Kinesis enables you to process and analyze data as it arrives&lt;/div&gt;&lt;div&gt;and respond instantly instead of having to wait until all your data is collected before the processing can&lt;/div&gt;&lt;div&gt;begin.&lt;/div&gt;&lt;div&gt;Amazon Kinesis currently offers four serv&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1564">
           <mxGeometry x="13.199999999999989" y="150" width="303.6" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1565" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-534.2" y="316.5" width="270" height="123.5" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1570" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-770" y="309.75" width="400" height="208.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1565" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1570">
+          <mxGeometry x="51" width="270" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1566" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1565">
           <mxGeometry width="270" height="123.5" as="geometry" />
@@ -1066,8 +1069,11 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1568" value="Amazon OpenSearchService" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1567">
           <mxGeometry x="65" width="185" height="41.51" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1569" value="&lt;div&gt;Amazon FinSpace is a data management and analytics service purpose-built for the financial services&lt;/div&gt;&lt;div&gt;industry (FSI). FinSpace reduces the time you spend finding and preparing petabytes of financial data to&lt;/div&gt;&lt;span&gt;be ready for analysis from months to minutes.&lt;/span&gt;Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1566">
-          <mxGeometry x="40" y="93.5" width="200" height="30" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1569" value="&lt;div&gt;Amazon OpenSearch Service (OpenSearch Service) makes it easy to deploy, secure, operate, and scale&lt;/div&gt;&lt;div&gt;OpenSearch to search, analyze, and visualize data in real-time. With Amazon OpenSearch Service,&lt;/div&gt;&lt;div&gt;you get easy-to-use APIs and real-time analytics capabilities to power use-cases such as log analytics,&lt;/div&gt;&lt;div&gt;full-text search, application monitoring, and clickstream analytics, with enterprise-grade availability,&lt;/div&gt;&lt;div&gt;scalability, and security. The service offers integrations with open-source tools like OpenSearch&lt;/div&gt;&lt;div&gt;Dashboards and Logstash for data ingestion and visualization. It also integrates seamlessly with other&lt;/div&gt;&lt;div&gt;AWS services such as Amazon Virtual Private Cloud (Amazon VPC), AWS Key Management Service (AWS&lt;/div&gt;&lt;div&gt;KMS), Amazon Kinesis Data Firehose, AWS Lambda, AWS Identity and Access Management (IAM), Amazon&lt;/div&gt;&lt;div&gt;Cognito, and Amazon CloudWatch, so that you can go from raw data to actionable insights quickly.&lt;/div&gt;&lt;div&gt;12&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1570">
+          <mxGeometry y="178.5" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1571" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1568" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
