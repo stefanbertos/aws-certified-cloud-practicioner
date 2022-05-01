@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:58:55.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="nXn7lTZog90S5Wvdc5cA" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T13:01:27.481Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="U-Wx-ZVpuI684BH-eAn2" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -269,10 +269,10 @@
           <mxGeometry x="961" y="676.5" width="270" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1516" value="Compute" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;fontColor=#ffffff;align=center;strokeWidth=3;fillColor=#60a917;strokeColor=#2D7600;" parent="1" vertex="1">
-          <mxGeometry x="480" y="1080" width="120" height="120" as="geometry" />
+          <mxGeometry x="620" y="1410" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1518" value="AWS Lambda" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="450" y="1000" width="120" height="40" as="geometry" />
+          <mxGeometry x="610" y="1273" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1528" value="" style="edgeStyle=none;endArrow=none;strokeWidth=3;strokeColor=#2D7600;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#60a917;" parent="1" source="1516" target="P4CbewZ5qaZaSDbY6l-O-1595" edge="1">
           <mxGeometry x="-1558" y="-87.5" width="100" height="100" as="geometry">
@@ -410,7 +410,7 @@
           <mxGeometry y="60" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1597" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="262.5" y="991" width="160" height="70" as="geometry" />
+          <mxGeometry x="740" y="1370" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1595" value="AWS ECS" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="P4CbewZ5qaZaSDbY6l-O-1597" vertex="1">
           <mxGeometry x="10" width="120" height="40" as="geometry" />
@@ -494,7 +494,7 @@
           <mxGeometry y="80" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P4CbewZ5qaZaSDbY6l-O-1618" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="440" y="1241" width="170" height="80" as="geometry" />
+          <mxGeometry x="647.5" y="1680" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1543" value="" style="group" parent="P4CbewZ5qaZaSDbY6l-O-1618" vertex="1" connectable="0">
           <mxGeometry x="-40" width="210" height="80" as="geometry" />
@@ -719,7 +719,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1591" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="230" y="1090" width="160" height="70" as="geometry" />
+          <mxGeometry x="750" y="1490" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1592" value="AWS EKS" style="rounded=1;fillColor=#60A917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="JDsN5YcXbBO9Q6KNKqnr-1591" vertex="1">
           <mxGeometry x="10" width="120" height="40" as="geometry" />
@@ -729,18 +729,6 @@
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1594" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1592" target="1516" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1595" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="272.5" y="1193" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1596" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1595" vertex="1" connectable="0">
-          <mxGeometry x="-40" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1597" value="AWS Fargate" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="JDsN5YcXbBO9Q6KNKqnr-1596" vertex="1">
-          <mxGeometry x="50" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1598" value="Serverless compute for containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1596" vertex="1">
-          <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1599" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2D7600;strokeWidth=3;endArrow=none;endFill=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1597" target="1516" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -847,14 +835,14 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1648" value="The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1651" vertex="1">
           <mxGeometry y="70" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656" edge="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.023;exitY=0.331;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;exitPerimeter=0;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="&lt;b&gt;Analytics&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="836.5" width="120" height="120" as="geometry" />
+          <mxGeometry x="-60" y="930" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1660" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="650" width="250" height="106" as="geometry" />
+          <mxGeometry x="130" y="780" width="250" height="106" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1655" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1660" vertex="1" connectable="0">
           <mxGeometry width="230" height="73.5" as="geometry" />
@@ -887,7 +875,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kRNzgPM9W05sCUSI7VgW-1556" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="580" y="1280" width="205" height="90" as="geometry" />
+          <mxGeometry x="658.5" y="1129" width="205" height="90" as="geometry" />
         </mxCell>
         <mxCell id="kRNzgPM9W05sCUSI7VgW-1557" value="Amazin Neptune" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="kRNzgPM9W05sCUSI7VgW-1556" vertex="1">
           <mxGeometry x="42.5" width="120" height="40" as="geometry" />
@@ -968,7 +956,7 @@
           <mxGeometry y="50" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1542" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-320" y="820" width="250" height="106" as="geometry" />
+          <mxGeometry x="150" y="980" width="250" height="106" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1543" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1542">
           <mxGeometry width="230" height="73.5" as="geometry" />
@@ -998,7 +986,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1553" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-240" y="386.5" width="270" height="123.5" as="geometry" />
+          <mxGeometry x="-90" y="650" width="270" height="123.5" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1557" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1553">
           <mxGeometry width="270" height="123.5" as="geometry" />
@@ -1121,34 +1109,16 @@
           <mxGeometry x="65" width="135" height="41.51" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1601" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-447.5" y="1460" width="640" height="140" as="geometry" />
+          <mxGeometry x="-140" y="1380" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1595" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1601">
-          <mxGeometry x="55" width="585" height="110" as="geometry" />
+          <mxGeometry x="31.796875" width="338.203125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1596" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1595">
-          <mxGeometry x="5" y="-14" width="580" height="80.5" as="geometry" />
+          <mxGeometry x="2.890625" y="-14" width="335.3125" height="80.5" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1597" value="AWS Glue" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1596">
-          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1598" value="&lt;div&gt;AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers&lt;/div&gt;&lt;div&gt;to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the&lt;/div&gt;&lt;div&gt;AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue&lt;/div&gt;&lt;div&gt;discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS&lt;/div&gt;&lt;div&gt;Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for&lt;/div&gt;&lt;div&gt;ETL.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1601">
-          <mxGeometry y="110" width="385" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1602" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="7.5" y="1514" width="640" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1603" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1602">
-          <mxGeometry x="55" width="585" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1604" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1603">
-          <mxGeometry x="5" y="-14" width="580" height="80.5" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1605" value="AWS Lake Formation" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1604">
-          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1606" value="&lt;div&gt;&lt;div&gt;AWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is&lt;/div&gt;&lt;div&gt;a centralized, curated, and secured repository that stores all your data, both in its original form and&lt;/div&gt;&lt;div&gt;prepared for analysis. A data lake enables you to break down data silos and combine different types of&lt;/div&gt;&lt;div&gt;analytics to gain insights and guide better business decisions.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1603">
-          <mxGeometry x="-32.5" y="66" width="385" height="30" as="geometry" />
+          <mxGeometry x="37.58" width="142.42" height="41.51" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1610" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-788.5" y="1560" width="350" height="150" as="geometry" />
@@ -1164,6 +1134,33 @@
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1612" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.679;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1605" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1595" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="523.5" y="1580" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1596" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1595" vertex="1" connectable="0">
+          <mxGeometry x="-40" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1597" value="AWS Fargate" style="rounded=1;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=3;shadow=0;html=1;fontColor=#ffffff;" parent="JDsN5YcXbBO9Q6KNKqnr-1596" vertex="1">
+          <mxGeometry x="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1598" value="Serverless compute for containers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1596" vertex="1">
+          <mxGeometry y="50" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1613" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="1140" width="424.75" height="116.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1604" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1613">
+          <mxGeometry x="53.25" width="371.5" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1605" value="AWS Lake Formation" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1604">
+          <mxGeometry x="41.63" width="148.37" height="41.51" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1606" value="&lt;div&gt;&lt;div&gt;AWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is&lt;/div&gt;&lt;div&gt;a centralized, curated, and secured repository that stores all your data, both in its original form and&lt;/div&gt;&lt;div&gt;prepared for analysis. A data lake enables you to break down data silos and combine different types of&lt;/div&gt;&lt;div&gt;analytics to gain insights and guide better business decisions.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1613">
+          <mxGeometry y="86.5" width="385" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1598" value="&lt;div&gt;AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers&lt;/div&gt;&lt;div&gt;to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the&lt;/div&gt;&lt;div&gt;AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue&lt;/div&gt;&lt;div&gt;discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS&lt;/div&gt;&lt;div&gt;Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for&lt;/div&gt;&lt;div&gt;ETL.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-108.2" y="1520" width="222.578125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
