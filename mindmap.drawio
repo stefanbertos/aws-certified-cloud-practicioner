@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:44:44.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EAKR7HU4U5Lzc6Gldvl_" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:44:57.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="DmXNCZmICbdN0aw5rze8" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1036,8 +1036,14 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1558" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1555" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1559" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-350" y="1020" width="330" height="106" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1563" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1561" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1564" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-350" y="1020" width="330" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1559" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1564">
+          <mxGeometry width="330" height="106" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1560" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1559">
           <mxGeometry width="303.6" height="73.5" as="geometry" />
@@ -1045,11 +1051,8 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1561" value="&lt;b&gt;Amazon Kinesis&lt;/b&gt;" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1560">
           <mxGeometry x="85.8" width="158.4" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1562" value="&lt;div&gt;Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get&lt;/div&gt;&lt;div&gt;timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to costeffectively process streaming data at any scale, along with the flexibility to choose the tools that best&lt;/div&gt;&lt;div&gt;suit the requirements of your application. With Amazon Kinesis, you can ingest real-time data such&lt;/div&gt;&lt;div&gt;as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning,&lt;/div&gt;&lt;div&gt;analytics, and other applications. Amazon Kinesis enables you to process and analyze data as it arrives&lt;/div&gt;&lt;div&gt;and respond instantly instead of having to wait until all your data is collected before the processing can&lt;/div&gt;&lt;div&gt;begin.&lt;/div&gt;&lt;div&gt;Amazon Kinesis currently offers four serv&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-336.8" y="1170" width="303.6" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1563" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1561" target="JDsN5YcXbBO9Q6KNKqnr-1653">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1562" value="&lt;div&gt;Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get&lt;/div&gt;&lt;div&gt;timely insights and react quickly to new information. Amazon Kinesis offers key capabilities to costeffectively process streaming data at any scale, along with the flexibility to choose the tools that best&lt;/div&gt;&lt;div&gt;suit the requirements of your application. With Amazon Kinesis, you can ingest real-time data such&lt;/div&gt;&lt;div&gt;as video, audio, application logs, website clickstreams, and IoT telemetry data for machine learning,&lt;/div&gt;&lt;div&gt;analytics, and other applications. Amazon Kinesis enables you to process and analyze data as it arrives&lt;/div&gt;&lt;div&gt;and respond instantly instead of having to wait until all your data is collected before the processing can&lt;/div&gt;&lt;div&gt;begin.&lt;/div&gt;&lt;div&gt;Amazon Kinesis currently offers four serv&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1564">
+          <mxGeometry x="13.199999999999989" y="150" width="303.6" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
