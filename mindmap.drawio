@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:47:35.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="cAJC4VtCTPtLzwBSVs2o" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:49:12.583Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="dJyBwr5FXUTOBTSZQ2UU" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -796,21 +796,6 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1620" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#F08E81;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1618" target="1352" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1623" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="523.5" y="1137.5" width="165" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1624" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1623" vertex="1" connectable="0">
-          <mxGeometry width="165" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1625" value="Amazon Redshift" style="rounded=1;fillColor=#33FFFF;strokeColor=none;strokeWidth=3;shadow=0;html=1;fontColor=#FFFFFF;" parent="JDsN5YcXbBO9Q6KNKqnr-1624" vertex="1">
-          <mxGeometry x="22.5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1626" value="Accelerate your time to insights with fast, easy, and secure cloud data warehousing at scale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1624" vertex="1">
-          <mxGeometry y="50" width="165" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1627" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#33FFFF;strokeWidth=3;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1625" target="Go3iSsEfG03xtx_T8QIx-1543" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1628" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1820" y="-10" width="189.5" height="90" as="geometry" />
         </mxCell>
@@ -1073,6 +1058,24 @@
           <mxGeometry y="178.5" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1571" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1568" target="JDsN5YcXbBO9Q6KNKqnr-1653">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1576" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-820" y="656.75" width="650" height="153.25" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1572" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1576">
+          <mxGeometry x="90" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1573" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1572">
+          <mxGeometry width="230" height="76.27358490566037" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1574" value="Amazon Redshift" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1573">
+          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1575" value="&lt;div&gt;Amazon Redshift is the most widely used cloud data warehouse. It makes it fast, simple and costeffective to analyze all your data using standard SQL and your existing Business Intelligence (BI) tools.&lt;/div&gt;&lt;div&gt;It allows you to run complex analytic queries against terabytes to petabytes of structured and semistructured data, using sophisticated query optimization, columnar storage on high-performance storage,&lt;/div&gt;&lt;div&gt;and massively parallel query execution. Most results come back in seconds. You can start small for just&lt;/div&gt;&lt;div&gt;$0.25 per hour with no commitments and scale out to petabytes of data for $1,000 per terabyte per&lt;/div&gt;&lt;div&gt;year, less than a tenth the cost of traditional on-premises solutions&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1576">
+          <mxGeometry y="123.25" width="495" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1577" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1574" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
