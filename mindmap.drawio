@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:41:12.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="qMreb25XykaMVg7LG6GR" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:41:46.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="96-BeBD0yv7UKiyfghyw" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -865,7 +865,7 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1658" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#36393d;strokeWidth=3;fillColor=#ffff88;" parent="1" source="JDsN5YcXbBO9Q6KNKqnr-1653" target="JDsN5YcXbBO9Q6KNKqnr-1656" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="Analytics" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1653" value="&lt;b&gt;Analytics&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=3;fillColor=#ffff88;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="172.5" y="770" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1660" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -874,7 +874,7 @@
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1655" value="" style="group" parent="JDsN5YcXbBO9Q6KNKqnr-1660" vertex="1" connectable="0">
           <mxGeometry width="230" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1656" value="Amazon EMR" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" parent="JDsN5YcXbBO9Q6KNKqnr-1655" vertex="1">
+        <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1656" value="&lt;b&gt;Amazon EMR&lt;/b&gt;" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" parent="JDsN5YcXbBO9Q6KNKqnr-1655" vertex="1">
           <mxGeometry x="65" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JDsN5YcXbBO9Q6KNKqnr-1657" value="Amazon EMR is a cloud big data platform for running large-scale distributed data processing jobs, interactive SQL queries, and machine learning (ML) applications using open-source analytics frameworks such as Apache Spark, Apache Hive, and Presto." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="JDsN5YcXbBO9Q6KNKqnr-1660" vertex="1">
@@ -994,7 +994,7 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1543" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1542">
           <mxGeometry width="230" height="73.5" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1544" value="Amazon Athena" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1543">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1544" value="&lt;b&gt;Amazon Athena&lt;/b&gt;" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1543">
           <mxGeometry x="65" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1545" value="&lt;div&gt;Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using&lt;/div&gt;&lt;div&gt;standard SQL. Athena is serverless, so there is no infrastructure to manage, and you pay only for the&lt;/div&gt;&lt;div&gt;queries that you run&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1542">
@@ -1003,14 +1003,14 @@
         <mxCell id="gMfaCo57WKpskPcQUYOb-1546" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="gMfaCo57WKpskPcQUYOb-1544" target="JDsN5YcXbBO9Q6KNKqnr-1653">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1547" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1547" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-370" y="550" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1548" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1547">
           <mxGeometry width="230" height="76.27358490566037" as="geometry" />
         </mxCell>
-        <mxCell id="gMfaCo57WKpskPcQUYOb-1549" value="Amazon CloudSearch" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1548">
-          <mxGeometry x="65" width="120" height="41.509433962264154" as="geometry" />
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1549" value="Amazon CloudSearch" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1548">
+          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1550" value="&lt;div&gt;Amazon CloudSearch is a managed service in the AWS Cloud that makes it simple and cost-effective&lt;/div&gt;&lt;div&gt;to set up, manage, and scale a search solution for your website or application. Amazon CloudSearch&lt;/div&gt;&lt;div&gt;supports 34 languages and popular search features such as highlighting, autocomplete, and geospatial&lt;/div&gt;&lt;div&gt;search.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-350" y="649.9979245283018" width="230" height="31.132075471698112" as="geometry" />
