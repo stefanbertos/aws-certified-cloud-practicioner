@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-01T12:55:25.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="tVfeHwSMq6pSXDR5Yc1N" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-01T12:56:40.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="hKLLK-kmtnhWG83oBm5G" version="17.5.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="2842" dy="1752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -1140,6 +1140,21 @@
         </mxCell>
         <mxCell id="gMfaCo57WKpskPcQUYOb-1598" value="&lt;div&gt;AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers&lt;/div&gt;&lt;div&gt;to prepare and load their data for analytics. You can create and run an ETL job with a few clicks in the&lt;/div&gt;&lt;div&gt;AWS Management Console. You simply point AWS Glue to your data stored on AWS, and AWS Glue&lt;/div&gt;&lt;div&gt;discovers your data and stores the associated metadata (e.g. table definition and schema) in the AWS&lt;/div&gt;&lt;div&gt;Glue Data Catalog. Once cataloged, your data is immediately searchable, queryable, and available for&lt;/div&gt;&lt;div&gt;ETL.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1601">
           <mxGeometry y="110" width="385" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1602" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="7.5" y="1514" width="640" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1603" value="" style="group;fontStyle=1" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1602">
+          <mxGeometry x="55" width="585" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1604" value="" style="group" vertex="1" connectable="0" parent="gMfaCo57WKpskPcQUYOb-1603">
+          <mxGeometry x="5" y="-14" width="580" height="80.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1605" value="AWS Lake Formation" style="rounded=1;fillColor=#ffff88;strokeColor=#36393d;strokeWidth=3;shadow=0;html=1;fontStyle=1" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1604">
+          <mxGeometry x="65" width="135" height="41.51" as="geometry" />
+        </mxCell>
+        <mxCell id="gMfaCo57WKpskPcQUYOb-1606" value="&lt;div&gt;&lt;div&gt;AWS Lake Formation is a service that makes it easy to set up a secure data lake in days. A data lake is&lt;/div&gt;&lt;div&gt;a centralized, curated, and secured repository that stores all your data, both in its original form and&lt;/div&gt;&lt;div&gt;prepared for analysis. A data lake enables you to break down data silos and combine different types of&lt;/div&gt;&lt;div&gt;analytics to gain insights and guide better business decisions.&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMfaCo57WKpskPcQUYOb-1603">
+          <mxGeometry x="-32.5" y="66" width="385" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
